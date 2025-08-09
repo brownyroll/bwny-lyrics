@@ -1,0 +1,16 @@
+[
+    {
+        "song": "Still Waiting for Your reply",
+        "lyrics": "lyrics/still_waiting_for_your_reply.json",
+        "artist": "yoshimoto ojisan",
+        "album": "お返事まだカナ？おじさん構文",
+        "url": "https://youtu.be/8E8aWeY-pAc?si=2yy2T-vNcI8ym-El"
+    },
+    {
+        "song": "your_song_name",
+        "lyrics": "lyrics/your_song_name.json",
+        "artist": "your_artist_name",
+        "album": "your_album_name",
+        "url": "https://your-song-url.com"
+    }
+]

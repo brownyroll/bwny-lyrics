@@ -1,0 +1,14 @@
+[
+    {"text": "I know, I know", "char_delay": 0.1, "delay": 0.3},
+    {"text": "And thinking all you need is there", "char_delay": 0.08, "delay": 0.5},
+    {"text": "Building faith on love and words", "char_delay": 0.05, "delay": 0.4},
+    {"text": "Empty promises will wear", "char_delay": 0.08, "delay": 0.2},
+    {"text": "I know", "char_delay": 0.08, "delay": 1.1},
+    {"text": "I know and now", "char_delay": 0.06, "delay": 0.7},
+    {"text": "When all is done, there is nothing to say", "char_delay": 0.04, "delay": 0.8},
+    {"text": "And if you're done", "char_delay": 0.07, "delay": 0.1},
+    {"text": "With embarrassing me", "char_delay": 0.04, "delay": 0.8},
+    {"text": "On your own you can go ahead", "char_delay": 0.06, "delay": 0.0},
+    {"text": "Tell them", "char_delay": 0.05, "delay": 0.7},
+    {"text": "Tell them all I know now", "char_delay": 0.08, "delay": 0.0}
+]
