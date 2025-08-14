@@ -1,0 +1,17 @@
+[
+    {"text": "---- Start -----", "char_delay": 0.0, "delay": 0.3},
+    {"text": "3", "char_delay": 0.0, "delay": 1},
+    {"text": "2", "char_delay": 0.0, "delay": 1},
+    {"text": "1", "char_delay": 0.0, "delay": 1},
+    {"text": "I wanna da-, I wanna dance in the lights", "char_delay": 0.08, "delay": 0.6},
+    {"text": "I wanna ro-, I wanna rock your body", "char_delay": 0.08, "delay": 0.8},
+    {"text": "I wanna go, I wanna go for a ride", "char_delay": 0.08, "delay": 0.5},
+    {"text": "Hop in the music and rock your body right", "char_delay": 0.08, "delay": 0.5},
+    {"text": "Rock that body, come on, come on, rock that body", "char_delay": 0.07, "delay": 0.4},
+    {"text": "(rock that body)", "char_delay": 0.04, "delay": 0.2},
+    {"text": "Rock that body, come on, come on, rock that body", "char_delay": 0.07, "delay": 0.4},
+    {"text": "Rock that body, come on, come on, rock that body", "char_delay": 0.07, "delay": 0.4},
+    {"text": "(rock your body)", "char_delay": 0.04, "delay": 0.2},
+    {"text": "Rock that body, come on, come on, rock that body", "char_delay": 0.05, "delay": 0.4},
+    {"text": "---- END -----", "char_delay": 0.2, "delay": 0.3}
+]

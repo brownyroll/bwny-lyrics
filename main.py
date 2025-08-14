@@ -34,11 +34,16 @@ def printLyrics(lyrics_data):
         after_delay = float(line.get("delay", 0.5))
 
         for char in text:
-            print(char, end="")
+            sys.stdout.write(char)
             sys.stdout.flush()
+            # print(char, end="")
+            # sys.stdout.flush()
             time.sleep(char_delay)
         print()
         time.sleep(after_delay)
+
+        sys.stdout.write("\r" + " " * len(text) + "\r")
+        sys.stdout.flush()
 
 def main():
     songs = load_song_list()
